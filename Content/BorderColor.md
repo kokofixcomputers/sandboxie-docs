@@ -1,6 +1,7 @@
 # Border Color
 
 _BorderColor_ is a sandbox setting in [Sandboxie Ini](SandboxieIni.md). It controls whether Sandboxie displays a colored border around the active foreground window, if that windows belongs to a sandboxed application.
+Some colors can now be changed in the app.
 
 Usage:
 
